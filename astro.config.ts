@@ -22,7 +22,7 @@ export default defineConfig({
     storyblok({
       accessToken: env.STORYBLOK_TOKEN,
       components: {
-        // Add your components here
+        blogPost: "storyblok/BlogPost",
       },
       apiOptions: {
         // Choose your Storyblok space region
