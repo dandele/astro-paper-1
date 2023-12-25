@@ -11,6 +11,7 @@
       "@layouts/*": ["layouts/*"],
       "@pages/*": ["pages/*"],
       "@styles/*": ["styles/*"],
+      "@storyblok/astro/*": ["node_modules/@storyblok/astro/*"],
       "@utils/*": ["utils/*"]
     }
   }
